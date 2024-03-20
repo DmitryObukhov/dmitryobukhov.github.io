@@ -1,14 +1,13 @@
 body {
-  width: 200px; 
+  width: 800px; 
   background-color: white;
-  white-space: nowrap; 
 }
 h1 {
-  width: 200px; 
+  width: 800px; 
   background-color: silver;
-  color: blue;
+  color: black;
 }
 p {
-  width: 200px; 
-  color: red;
+  width: 800px; 
+  color: black;
 }
