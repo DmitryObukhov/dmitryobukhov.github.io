@@ -1,9 +1,14 @@
 body {
-  background-color: powderblue;
+  width: 200px; 
+  background-color: white;
+  white-space: nowrap; 
 }
 h1 {
+  width: 200px; 
+  background-color: silver;
   color: blue;
 }
 p {
+  width: 200px; 
   color: red;
 }
