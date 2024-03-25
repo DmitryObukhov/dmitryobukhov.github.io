@@ -1,13 +1,23 @@
 body {
   width: 800px; 
   background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-  width: 800px; 
+  margin-left: 40px;
+  background-color: silver;
+  color: black;
+}
+h2 {
+  margin-left: 60px;
   background-color: silver;
   color: black;
 }
 p {
-  width: 800px; 
+  margin-left: 80px;
+  color: black;
+}
+ul {
+  margin-left: 100px;
   color: black;
 }
